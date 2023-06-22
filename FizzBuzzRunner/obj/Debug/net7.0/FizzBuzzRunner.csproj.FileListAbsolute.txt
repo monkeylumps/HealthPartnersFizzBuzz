@@ -1,0 +1,15 @@
+C:\Users\Dan\source\repos\monkeylumps\HealthPartnersFizzBuzz\FizzBuzzRunner\bin\Debug\net7.0\FizzBuzzRunner.exe
+C:\Users\Dan\source\repos\monkeylumps\HealthPartnersFizzBuzz\FizzBuzzRunner\bin\Debug\net7.0\FizzBuzzRunner.deps.json
+C:\Users\Dan\source\repos\monkeylumps\HealthPartnersFizzBuzz\FizzBuzzRunner\bin\Debug\net7.0\FizzBuzzRunner.runtimeconfig.json
+C:\Users\Dan\source\repos\monkeylumps\HealthPartnersFizzBuzz\FizzBuzzRunner\bin\Debug\net7.0\FizzBuzzRunner.dll
+C:\Users\Dan\source\repos\monkeylumps\HealthPartnersFizzBuzz\FizzBuzzRunner\bin\Debug\net7.0\FizzBuzzRunner.pdb
+C:\Users\Dan\source\repos\monkeylumps\HealthPartnersFizzBuzz\FizzBuzzRunner\obj\Debug\net7.0\FizzBuzzRunner.csproj.AssemblyReference.cache
+C:\Users\Dan\source\repos\monkeylumps\HealthPartnersFizzBuzz\FizzBuzzRunner\obj\Debug\net7.0\FizzBuzzRunner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dan\source\repos\monkeylumps\HealthPartnersFizzBuzz\FizzBuzzRunner\obj\Debug\net7.0\FizzBuzzRunner.AssemblyInfoInputs.cache
+C:\Users\Dan\source\repos\monkeylumps\HealthPartnersFizzBuzz\FizzBuzzRunner\obj\Debug\net7.0\FizzBuzzRunner.AssemblyInfo.cs
+C:\Users\Dan\source\repos\monkeylumps\HealthPartnersFizzBuzz\FizzBuzzRunner\obj\Debug\net7.0\FizzBuzzRunner.csproj.CoreCompileInputs.cache
+C:\Users\Dan\source\repos\monkeylumps\HealthPartnersFizzBuzz\FizzBuzzRunner\obj\Debug\net7.0\FizzBuzzRunner.dll
+C:\Users\Dan\source\repos\monkeylumps\HealthPartnersFizzBuzz\FizzBuzzRunner\obj\Debug\net7.0\refint\FizzBuzzRunner.dll
+C:\Users\Dan\source\repos\monkeylumps\HealthPartnersFizzBuzz\FizzBuzzRunner\obj\Debug\net7.0\FizzBuzzRunner.pdb
+C:\Users\Dan\source\repos\monkeylumps\HealthPartnersFizzBuzz\FizzBuzzRunner\obj\Debug\net7.0\FizzBuzzRunner.genruntimeconfig.cache
+C:\Users\Dan\source\repos\monkeylumps\HealthPartnersFizzBuzz\FizzBuzzRunner\obj\Debug\net7.0\ref\FizzBuzzRunner.dll

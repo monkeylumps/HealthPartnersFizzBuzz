@@ -1,0 +1,12 @@
+C:\Users\Dan\source\repos\monkeylumps\HealthPartnersFizzBuzz\FizzBuzzService\bin\Debug\net7.0\FizzBuzzService.deps.json
+C:\Users\Dan\source\repos\monkeylumps\HealthPartnersFizzBuzz\FizzBuzzService\bin\Debug\net7.0\FizzBuzzService.dll
+C:\Users\Dan\source\repos\monkeylumps\HealthPartnersFizzBuzz\FizzBuzzService\bin\Debug\net7.0\FizzBuzzService.pdb
+C:\Users\Dan\source\repos\monkeylumps\HealthPartnersFizzBuzz\FizzBuzzService\obj\Debug\net7.0\FizzBuzzService.csproj.AssemblyReference.cache
+C:\Users\Dan\source\repos\monkeylumps\HealthPartnersFizzBuzz\FizzBuzzService\obj\Debug\net7.0\FizzBuzzService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dan\source\repos\monkeylumps\HealthPartnersFizzBuzz\FizzBuzzService\obj\Debug\net7.0\FizzBuzzService.AssemblyInfoInputs.cache
+C:\Users\Dan\source\repos\monkeylumps\HealthPartnersFizzBuzz\FizzBuzzService\obj\Debug\net7.0\FizzBuzzService.AssemblyInfo.cs
+C:\Users\Dan\source\repos\monkeylumps\HealthPartnersFizzBuzz\FizzBuzzService\obj\Debug\net7.0\FizzBuzzService.csproj.CoreCompileInputs.cache
+C:\Users\Dan\source\repos\monkeylumps\HealthPartnersFizzBuzz\FizzBuzzService\obj\Debug\net7.0\FizzBuzzService.dll
+C:\Users\Dan\source\repos\monkeylumps\HealthPartnersFizzBuzz\FizzBuzzService\obj\Debug\net7.0\refint\FizzBuzzService.dll
+C:\Users\Dan\source\repos\monkeylumps\HealthPartnersFizzBuzz\FizzBuzzService\obj\Debug\net7.0\FizzBuzzService.pdb
+C:\Users\Dan\source\repos\monkeylumps\HealthPartnersFizzBuzz\FizzBuzzService\obj\Debug\net7.0\ref\FizzBuzzService.dll
