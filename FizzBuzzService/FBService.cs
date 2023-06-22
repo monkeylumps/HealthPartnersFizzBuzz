@@ -4,7 +4,11 @@
     {
         public IList<string> Run(int range)
         {
-            throw new NotImplementedException();
+            var output = new List<string>();
+
+            output = Enumerable.Range(1, range).Select(item => item.ToString()).ToList();
+
+            return output;
         }
     }
 }
