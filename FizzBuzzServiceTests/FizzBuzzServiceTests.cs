@@ -1,5 +1,6 @@
 ﻿using FizzBuzzService;
 using Xunit;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace FizzBuzzServiceTests
 {
@@ -27,7 +28,24 @@ namespace FizzBuzzServiceTests
         {
             var expected = "2";
 
-            var result = sut.GetFizzBuzzOutput(2);
+            var number = 2;
+
+            GetFizzBuzzResult(expected, number);
+        }
+
+        [Fact]
+        public void Given9WhenGetFizzBuzzOutputThenReturnFizz()
+        {
+            var expected = "Fizz";
+
+            var number = 9;
+
+            GetFizzBuzzResult(expected, number);
+        }
+
+        private void GetFizzBuzzResult(string expected, int number)
+        {
+            var result = sut.GetFizzBuzzOutput(number);
 
             Assert.Equal(expected, result);
         }
