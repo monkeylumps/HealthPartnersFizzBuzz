@@ -25,7 +25,7 @@ namespace FizzBuzzServiceTests
         [Fact]
         public void Given2WhenGetFizzBuzzOutputThenReturn2()
         {
-            var expected = 2;
+            var expected = "2";
 
             var result = sut.GetFizzBuzzOutput(2);
 

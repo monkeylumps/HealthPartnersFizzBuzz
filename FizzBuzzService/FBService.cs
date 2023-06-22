@@ -1,4 +1,6 @@
-﻿namespace FizzBuzzService
+﻿using static System.Runtime.InteropServices.JavaScript.JSType;
+
+namespace FizzBuzzService
 {
     public class FBService : IFizzBuzzService
     {
@@ -11,9 +13,11 @@
             return output;
         }
 
-        public int GetFizzBuzzOutput(int input)
+        public string GetFizzBuzzOutput(int number)
         {
-            throw new NotImplementedException();
+            string output = string.Empty;
+
+            return string.IsNullOrEmpty(output) ? number.ToString() : output;
         }
     }
 }

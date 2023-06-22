@@ -2,7 +2,7 @@
 {
     public interface IFizzBuzzService
     {
-        int GetFizzBuzzOutput(int input);
+        string GetFizzBuzzOutput(int number);
 
         IList<string> Run(int range);
     }
