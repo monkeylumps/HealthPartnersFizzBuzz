@@ -38,7 +38,7 @@ namespace FizzBuzzService
         private List<IFizzBuzzRule> LoadFizzBuzzRules()
         {
             var ruleTypes = Assembly.GetExecutingAssembly().GetTypes()
-                .Where(type => typeof(IFizzBuzzRule).IsAssignableFrom(type) && !type.IsInterface);
+                .Where(type => typeof(IFizzBuzzRule).IsAssignableFrom(type) && !type.IsInterface).Reverse();
 
             var rules = new List<IFizzBuzzRule>();
 
