@@ -10,5 +10,10 @@
 
             return output;
         }
+
+        public int GetFizzBuzzOutput(int input)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
