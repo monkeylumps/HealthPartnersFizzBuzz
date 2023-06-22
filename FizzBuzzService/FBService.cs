@@ -15,7 +15,12 @@ namespace FizzBuzzService
         {
             var output = new List<string>();
 
-            output = Enumerable.Range(1, range).Select(item => item.ToString()).ToList();
+            foreach (var number in Enumerable.Range(1, range).Select(item => item.ToString()).ToList())
+            {
+                var numberOutput = GetFizzBuzzOutput(int.Parse(number));
+
+                output.Add(numberOutput);
+            }
 
             return output;
         }

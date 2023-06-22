@@ -7,5 +7,25 @@
 // If the number is divisible by both 3 and 5 then output the word Fizzbuzz instead of the
 //number.
 // If none of the above conditions are met then output the number.
+//For the purpose of this test you should use a range of 1 to 100. Output of the results should be to a
+//console window.”
 
-Console.WriteLine("Hello, World!");
+using FizzBuzzService;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
+
+using IHost host = Host.CreateDefaultBuilder(args)
+    .ConfigureServices(services =>
+    {
+        services.AddSingleton<FBService>();
+    })
+    .Build();
+
+var fizzBuzzService = host.Services.GetRequiredService<FBService>();
+
+var output = fizzBuzzService.Run(100);
+
+foreach (var item in output)
+{
+    Console.WriteLine(item);
+}
