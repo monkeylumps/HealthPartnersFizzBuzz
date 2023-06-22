@@ -43,6 +43,16 @@ namespace FizzBuzzServiceTests
             GetFizzBuzzResult(expected, number);
         }
 
+        [Fact]
+        public void Given25WhenGetFizzBuzzOutputThenReturnBuzz()
+        {
+            var expected = "Buzz";
+
+            var number = 25;
+
+            GetFizzBuzzResult(expected, number);
+        }
+
         private void GetFizzBuzzResult(string expected, int number)
         {
             var result = sut.GetFizzBuzzOutput(number);
